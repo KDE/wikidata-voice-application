@@ -5,6 +5,12 @@ Version=1.0
 Terminal=false
 Type=Application
 Name=Wikidata
+Name[ca]=Wikidata
+Name[es]=Wikidata
+Name[eu]=Wikidata
+Name[nl]=Wikidata
+Name[uk]=Вікідані
+Name[x-test]=xxWikidataxx
 Exec=mycroft-gui-app --hideTextInput --skill=skill-wikidata.aiix.home
 Icon=wikidata-skill
 Categories=VoiceApp
