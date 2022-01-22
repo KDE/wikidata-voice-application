@@ -5,6 +5,7 @@ Version=1.0
 Terminal=false
 Type=Application
 Name=Wikidata
+Name[ar]=ويكي بيانات
 Name[ca]=Wikidata
 Name[ca@valencia]=Wikidata
 Name[cs]=Wikidata
