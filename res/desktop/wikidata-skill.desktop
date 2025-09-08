@@ -38,7 +38,6 @@ Name[sv]=Wikidata
 Name[tr]=Vikiveri
 Name[uk]=Вікідані
 Name[vi]=Wikidata
-Name[x-test]=xxWikidataxx
 Name[zh_CN]=Wikidata
 Name[zh_TW]=Wikidata
 Exec=mycroft-gui-app --hideTextInput --skill=skill-wikidata.aiix.home
